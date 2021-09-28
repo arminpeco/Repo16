@@ -1,7 +1,7 @@
 function firstName(firstName) {
     return firstName.toUpperCase();
 }
-function firstName(lastName) {
+function lastName(lastName) {
     return lastName.toLowerCase();
 }
 
